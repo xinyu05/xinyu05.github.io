@@ -136,12 +136,15 @@ br.large {
 img, video {
   width: 100%;
 }
+.img1 {
+  
+}
 
-img {
+/*img {
   box-shadow: 0 3px 20px rgba(0,0,0,0.09);
   border-radius: 2px;
 }
-
+*/
 img, #carousel {
   margin: 30px 0;
 }
