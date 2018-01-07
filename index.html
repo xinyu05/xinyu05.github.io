@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="xinyu xiao">
+    <meta name="author" content="Xinyu Xiao">
     <link rel="shortcut icon" type="image/png" href="assets/fav.png">
     <title>Xinyu Xiao</title>
-
     <!-- style -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -16,169 +16,164 @@
     <link rel="stylesheet" href="https://use.typekit.net/tvz0zdo.css">
     <link href="style.css" rel="stylesheet">
     <link href="particle-style.css" rel="stylesheet">
-
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109907049-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-109907049-1');
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-109907049-1');
     </script>
-  </head>
-  <body id="page-top">
+</head>
+
+<body id="page-top">
     <!-- particle effect -->
     <div id="canvas-wrap">
-      <canvas class="particle-container" id="particle-container" role="main"></canvas>
-      <div class="blur blurTop"><canvas class="canvas" id="blurCanvasTop"></canvas></div>
-      <div class="blur blurBottom"><canvas width="1000px" height="100px" class="canvas" id="blurCanvasBottom"></canvas></div>
-
-      <!-- nav -->
-      <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav" style="background-color:rgba(255,255,255,0.9)">
-        <div class="container">
-          <a class="navbar-brand js-scroll-trigger" href="#page-top"></a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse pull-right" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-              <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#work">Work</a></li>
-              <li class="nav-item"><a target="blank" class="nav-link js-scroll-trigger" href="assets/katyma-resume.pdf">Resume</a></li>
-            </ul>
-          </div>
+        <canvas class="particle-container" id="particle-container" role="main"></canvas>
+        <div class="blur blurTop">
+            <canvas class="canvas" id="blurCanvasTop"></canvas>
         </div>
-      </nav>
-
-      <div id="about" class="section bg-white">
-        <div class="container">
-          <div class="col-lg-10 mx-auto">
-            <div class="col-lg-8">
-              <h2>Xinyu Xiao</h2>
-              <p class="lead">I am a UI/UX designer passionate about the intersection of technology, media, and social activism. Senior at Wellesley College and cross-registered student at MIT studying Media Arts & Sciences. Currently co-directing <a target="_blank" href="http://wellesleyhacks.org">WHACK</a>, the Wellesley College hackathon, and designing civic tech tools at the <a target="_blank" href="https://www.media.mit.edu/groups/civic-media/overview">MIT Media Lab's</a> Civic Media group.
-              Previously: design & engineering hybrid internships at <a target="_blank" href="http://www.google.com">Google</a>/<a target="_blank" href="http://www.youtube.com">YouTube</a>, <a target="_blank" href="http://www.kensho.com">Kensho</a>, <a target="_blank" href="https://www.microsoft.com">Microsoft</a>,
-              and the <a target="_blank" href="https://design.mit.edu">MIT Design Lab</a>.
-              <br><br>
-              How did I become interested in tech? My friends and I <a target="_blank" href="http://www.sparksummit.com/doodleus"> asked
-              Google</a> to honor more diverse people in Google Doodles, and <a target="_blank" href="http://blogs.wsj.com/digits/2014/02/27/googles-doodles-oodles-of-men">
-              they listened</a>!
-              <br><br>
-              <div class="row">
-                <div class="social col-lg-3"><span class="icon">🐤</span><a target="_blank" href="https://twitter.com/katy__ma">Twitter</a></div>
-                <div class="social col-lg-3"><span class="icon">💼</span><a target="_blank" href="https://www.linkedin.com/in/katyma">LinkedIn</a></div>
-                <div class="social col-lg-3"><span class="icon">🏀</span><a target="_blank" href="https://dribbble.com/thekatykat">Dribbble</a></div>
-                <div class="social col-lg-3"><span class="icon">🐙</span><a target="_blank" href="https://github.com/kma2">Github</a></div>
-              </div>
-            </div>
-          </div>
+        <div class="blur blurBottom">
+            <canvas width="1000px" height="100px" class="canvas" id="blurCanvasBottom"></canvas>
         </div>
-      </div>
-
-      <div id="work" class="bg-particle">
-        <div class="container">
-          <div class="col-lg-12 mx-auto">
-            <div class="col-lg-3 mx-auto text-center">
-              <h3>Design Work</h3>
-              <hr class="underline">
+        <!-- nav -->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav" style="background-color:rgba(255,255,255,0.9)">
+            <div class="container">
+                <a class="navbar-brand js-scroll-trigger" href="#page-top"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse pull-right" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#work">Work</a></li>
+                        <li class="nav-item"><a target="blank" class="nav-link js-scroll-trigger" href="assets/katyma-resume.pdf">Resume</a></li>
+                    </ul>
+                </div>
             </div>
-          </div>
+        </nav>
+        <div id="about" class="section bg-white">
+            <div class="container">
+                <div class="col-lg-10 mx-auto">
+                    <div class="col-lg-8">
+                        <h2>Xinyu Xiao</h2>
+                        <p class="lead">I am a UI/UX designer passionate about the intersection of technology, media, and social activism. 
+                            <br>
+                            <br> How did I become interested in tech? 
+                            <br>
+                            <br>
+                            <div class="row">
+                                <div class="social col-lg-3"><span class="icon">🐤</span><a target="_blank" href="https://twitter.com/katy__ma">Twitter</a></div>
+                                <div class="social col-lg-3"><span class="icon">💼</span><a target="_blank" href="https://www.linkedin.com/in/katyma">LinkedIn</a></div>
+                                <div class="social col-lg-3"><span class="icon">🏀</span><a target="_blank" href="https://dribbble.com/thekatykat">Dribbble</a></div>
+                                <div class="social col-lg-3"><span class="icon">🐙</span><a target="_blank" href="https://github.com/kma2">Github</a></div>
+                            </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-
-      <div class="section bg-white">
-        <div class="container">
-          <div class="col-lg-10 mx-auto">
-            <div class="row" id="civicmedia-preview">
-              <div class="col-lg-6">
-                <h3>Media Cloud</h3>
-                <p class="lead"><b>UX Design</b> · Sept 2017 - Present</p>
-                <p class="lead">Working with a global, multidisciplinary team of researchers, engineers, and media experts to improve the overall user experience of the Media Cloud, an open-source research platform for studying media ecosystems built by the MIT Media Lab's Civic Media group.</p>
-                <br>
-                <p class="lead"><b>Coming soon</b></p>
-              </div>
-              <div class="col-lg-1"></div>
-              <div class="col-lg-5">
-                <img id="civicmedia-preview-img" src="assets/preview_civicmedia.png" alt="Civic Media">
-              </div>
+        <div id="work" class="bg-particle">
+            <div class="container">
+                <div class="col-lg-12 mx-auto">
+                    <div class="col-lg-3 mx-auto text-center">
+                        <h3>Design Work</h3>
+                        <hr class="underline">
+                    </div>
+                </div>
             </div>
-            <hr>
-            <div class="row" id="whack-preview">
-              <div class="col-lg-6">
-                <h3>WHACK</h3>
-                <p class="lead"><b>Co-Director & Designer</b> · Feb - Dec 2017</p>
-                <p class="lead">Led a team of 12 across design, logistics, engineering, social media, and corporate outreach to organize Wellesley College's largest-ever 36-hour hackathon. 300 students, 50+ mentors, 16 companies, and 1,500+ cups of coffee.</p>
-                <br>
-                <p class="lead"><b><a href="projects/whack/home.html">Learn more →</a></b></p>
-              </div>
-              <div class="col-lg-1"></div>
-              <div class="col-lg-5">
-                <img id="whack-preview-img" src="assets/preview_whack.png" alt="WHACK">
-              </div>
-            </div>
-            <hr>
-            <div class="row" id="emotibubbles-preview">
-              <div class="col-lg-6">
-                <h3>Emotibubbles</h3>
-                <p class="lead"><b>Interaction Design</b> · Oct 2017 - Present</p>
-                <p class="lead">An interactive soft tangible interface that helps kids on the autism spectrum recognize, learn, and express their emotions. Final project for CS 320: Tangible User Interfaces turned into ongoing project with Wellesley's HCI Lab & Child Study Center.</p>
-                <br>
-                <p class="lead"><b><a href="projects/emotibubbles/home.html">Learn more →</a></b></p>
-              </div>
-              <div class="col-lg-1"></div>
-              <div class="col-lg-5">
-                <img id="emotibubbles-preview-img" src="assets/preview_emotibubbles.gif" alt="Emotibubbles">
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
-
-      <div class="section bg-particle">
-        <div class="container">
-          <div class="col-lg-12 mx-auto">
-            <div class="col-lg-3 mx-auto text-center">
-              <h3>Internships</h3>
-              <hr class="underline">
+        <div class="section bg-white">
+            <div class="container">
+                <div class="col-lg-10 mx-auto">
+                    <div class="row" id="civicmedia-preview">
+                        <div class="col-lg-6">
+                            <h3>Media Cloud</h3>
+                            <p class="lead"><b>UX Design</b> · Sept 2017 - Present</p>
+                            <p class="lead">Working with a global, multidisciplinary team of researchers, engineers, and media experts to improve the overall user experience of the Media Cloud, an open-source research platform for studying media ecosystems built by the MIT Media Lab's Civic Media group.</p>
+                            <br>
+                            <p class="lead"><b>Coming soon</b></p>
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-5">
+                            <img id="civicmedia-preview-img" src="assets/preview_civicmedia.png" alt="Civic Media">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row" id="whack-preview">
+                        <div class="col-lg-6">
+                            <h3>WHACK</h3>
+                            <p class="lead"><b>Co-Director & Designer</b> · Feb - Dec 2017</p>
+                            <p class="lead">Led a team of 12 across design, logistics, engineering, social media, and corporate outreach to organize Wellesley College's largest-ever 36-hour hackathon. 300 students, 50+ mentors, 16 companies, and 1,500+ cups of coffee.</p>
+                            <br>
+                            <p class="lead"><b><a href="projects/whack/home.html">Learn more →</a></b></p>
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-5">
+                            <img id="whack-preview-img" src="assets/preview_whack.png" alt="WHACK">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row" id="emotibubbles-preview">
+                        <div class="col-lg-6">
+                            <h3>Emotibubbles</h3>
+                            <p class="lead"><b>Interaction Design</b> · Oct 2017 - Present</p>
+                            <p class="lead">An interactive soft tangible interface that helps kids on the autism spectrum recognize, learn, and express their emotions. Final project for CS 320: Tangible User Interfaces turned into ongoing project with Wellesley's HCI Lab & Child Study Center.</p>
+                            <br>
+                            <p class="lead"><b><a href="projects/emotibubbles/home.html">Learn more →</a></b></p>
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-5">
+                            <img id="emotibubbles-preview-img" src="assets/preview_emotibubbles.gif" alt="Emotibubbles">
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-
-      <div class="section bg-white">
-        <div class="container">
-          <div class="col-lg-10 mx-auto">
-            <div class="row" id="youtube-preview">
-              <div class="col-lg-6">
-                <h3>YouTube</h3>
-                <p class="lead"><b>UX Design Internship</b> · Summer 2017</p>
-                <p class="lead">12-week internship at YouTube headquarters in San Bruno, CA. Designed and prototyped live interaction features to empower users with opportunities for emotive self-expression and engagement with creators.</p>
-                <br>
-                <p class="lead"><b><a href="projects/youtube/home.html">Learn more →</a></b></p>
-              </div>
-              <div class="col-lg-1"></div>
-              <div class="col-lg-5">
-                <img id="youtube-preview-img" src="assets/preview_yt.png" alt="YouTube">
-              </div>
+        <div class="section bg-particle">
+            <div class="container">
+                <div class="col-lg-12 mx-auto">
+                    <div class="col-lg-3 mx-auto text-center">
+                        <h3>Internships</h3>
+                        <hr class="underline">
+                    </div>
+                </div>
             </div>
-            <hr>
-            <div class="row" id="microsoft-preview">
-              <div class="col-lg-6">
-                <h3>Microsoft</h3>
-                <p class="lead"><b>UI/UX Design Internship</b> · Summer 2016</p>
-                <p class="lead">As a designer in the Microsoft Garage internship program, which emphasizes rapid development and entrepreneurship, I worked with two 6-developer teams to build a Windows photos application and a Visual Studio Team Services Slack chat bot.</p>
-                <br>
-                <p class="lead"><b><a href="projects/microsoft/home.html">Learn more →</a></b></p>
-              </div>
-              <div class="col-lg-1"></div>
-              <div class="col-lg-5">
-                <img id="microsoft-preview-img" src="assets/preview_msft.png" alt="Microsoft">
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
-
-      <!-- <div class="section bg-particle">
+        <div class="section bg-white">
+            <div class="container">
+                <div class="col-lg-10 mx-auto">
+                    <div class="row" id="youtube-preview">
+                        <div class="col-lg-6">
+                            <h3>Designaffairs</h3>
+                            <p class="lead"><b>UI/UX Design Internship</b> · Summer 2015</p>
+                            <p class="lead">5 months internship at designaffairs headquarters in Munich, Germany. Designed and prototyped live interaction features to empower users with opportunities for emotive self-expression and engagement with creators.</p>
+                            <br>
+                            <p class="lead"><b><a href="projects/youtube/home.html">Learn more →</a></b></p>
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-5">
+                            <img id="youtube-preview-img" src="assets/preview_yt.png" alt="YouTube">
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row" id="microsoft-preview">
+                        <div class="col-lg-6">
+                            <h3>Microsoft</h3>
+                            <p class="lead"><b>UI/UX Design Internship</b> · Summer 2016</p>
+                            <p class="lead">As a designer in the Microsoft Garage internship program, which emphasizes rapid development and entrepreneurship, I worked with two 6-developer teams to build a Windows photos application and a Visual Studio Team Services Slack chat bot.</p>
+                            <br>
+                            <p class="lead"><b><a href="projects/microsoft/home.html">Learn more →</a></b></p>
+                        </div>
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-5">
+                            <img id="microsoft-preview-img" src="assets/preview_msft.png" alt="Microsoft">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="section bg-particle">
         <div class="container">
           <div class="col-lg-12 mx-auto">
             <div class="col-lg-3 mx-auto text-center">
@@ -212,20 +207,19 @@
           </div>
         </div>
       </div> -->
-
-    </div> <!-- end of canvas wrap-->
-
+    </div>
+    <!-- end of canvas wrap-->
     <!-- footer -->
     <footer class="py-5 bg-light">
-      <div class="container">
-        <div class="col-lg-12 text-center">
-          <br>
-          <p class="small-text">I'd love to chat! Drop me a line at <a href="mailto:katy.ma@wellesley.edu">katy.ma@wellesley.edu</a>
-          <br><br>© xinyu xiao2017</p>
+        <div class="container">
+            <div class="col-lg-12 text-center">
+                <br>
+                <p class="small-text">I'd love to chat! Drop me a line at <a href="mailto:katy.ma@wellesley.edu">katy.ma@wellesley.edu</a>
+                    <br>
+                    <br>© Xinyu Xiao 2017</p>
+            </div>
         </div>
-      </div>
     </footer>
-
     <!-- js -->
     <script src="js/particle.js"></script>
     <script src="js/index.js"></script>
@@ -233,7 +227,6 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
     <script src="js/scrolling-nav.js"></script>
-
-  </body>
+</body>
 
 </html>

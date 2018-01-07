@@ -1,0 +1,70 @@
+.cover-img {
+  margin: 0;
+}
+
+#msft-cover {
+  background-image: url("projects/microsoft/cover.png");
+}
+
+#yt-cover {
+  background-image: url("projects/youtube/cover.jpg");
+}
+
+#whack-cover {
+  background-image: url("projects/whack/cover.jpg");
+}
+
+#cm-cover {
+  background-image: url("projects/civicmedia/cover.png");
+}
+
+#emotibubbles-logo {
+  width: 30px;
+  margin: 0 15px 0;
+  box-shadow: 0 0 0;
+}
+
+.parallax {
+  height: 550px;
+  background-color: #F7F7F7;
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.feature-group {
+  margin: 50px 0;
+}
+
+.feature-1-col {
+  margin: 2% 0;
+}
+
+.feature-2-col {
+  margin: 3% 0;
+}
+
+@media (max-width: 992px) {
+  .feature-1-col, .feature-2-col {
+    text-align: center;
+  }
+}
+
+.purple-fa {
+  color: #9485EA; /*purple*/
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0; overflow:
+  hidden; max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

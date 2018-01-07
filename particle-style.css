@@ -1,0 +1,35 @@
+html,body {
+  width:100%;
+  height:100%;
+  position:relative;
+  background-color: #F7F7F7;
+}
+
+#blurCanvasTop{
+  left:0%;
+  top:0%;
+  position:relative;
+}
+
+#blurCanvasBottom{
+  left:50%;
+  top:0;
+  position:relative;
+}
+
+.blur {
+  width:100%;
+  height:100%;
+  position:relative;
+}
+
+#canvas-wrap {
+  position: relative;
+}
+
+#canvas-wrap canvas {
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:0;
+}
