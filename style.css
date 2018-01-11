@@ -11,6 +11,9 @@ a, a:visited, a:link {
   text-decoration: none;
 }
 
+
+
+
 a:hover {
   text-decoration: none;
   color: #FF7A67;
@@ -81,7 +84,7 @@ b {
 }
 
 .bg-light {
-  background-color: #F7F7F7!important;
+  background-color: #F6F5F3!important;
 }
 
 .fa {
@@ -135,9 +138,12 @@ br.large {
 
 img, video {
   width: 100%;
-}
-.img1 {
-  
+
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+
 }
 
 /*img {

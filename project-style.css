@@ -6,6 +6,14 @@
   background-image: url("projects/microsoft/cover.png");
 }
 
+#sn-cover {
+  background-image: url("projects/sn/cover.png");
+}
+
+#lib-cover {
+  background-image: url("projects/library/cover.png");
+}
+
 #yt-cover {
   background-image: url("projects/youtube/cover.jpg");
 }
