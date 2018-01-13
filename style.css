@@ -7,11 +7,13 @@ body {
 
 a, a:visited, a:link {
   color: inherit;
-  border-bottom: 1px dashed #FF7A67;
+
   text-decoration: none;
 }
 
-
+.baseline{
+    border-bottom: 1px dashed #FF7A67;
+}
 
 
 a:hover {
