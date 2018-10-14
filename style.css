@@ -1,7 +1,7 @@
 body {
-  font-family: 'proxima-nova','Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Avenir';
   background-image: url("assets/background.jpg");
-  letter-spacing: 0.3px;
+  letter-spacing: 0.1px;
   color: rgba(0,0,0,0.8);
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 h2, h3, h4, h5 {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h2, h3, h4, h5 {
@@ -32,7 +32,7 @@ h2, h3, h4, h5 {
 }
 
 b {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .lead {
@@ -52,7 +52,7 @@ b {
   font-size: 0.7rem;
   font-weight: 600;
   line-height: 0;
-  letter-spacing: 1px;
+  letter-spacing: 0.1px;
 }
 
 /* ==== nav styling ==== */
