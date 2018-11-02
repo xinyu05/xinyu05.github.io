@@ -1,20 +1,15 @@
 body {
-  font-family: 'Avenir';
+  font-family: 'proxima-nova','Helvetica Neue', Helvetica, sans-serif;
   background-image: url("assets/background.jpg");
-  letter-spacing: 0.1px;
+  letter-spacing: 0.3px;
   color: rgba(0,0,0,0.8);
 }
 
 a, a:visited, a:link {
   color: inherit;
-
+  border-bottom: 1px dashed #FF7A67;
   text-decoration: none;
 }
-
-.baseline{
-    border-bottom: 1px dashed #FF7A67;
-}
-
 
 a:hover {
   text-decoration: none;
@@ -24,7 +19,7 @@ a:hover {
 }
 
 h2, h3, h4, h5 {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h2, h3, h4, h5 {
@@ -32,7 +27,7 @@ h2, h3, h4, h5 {
 }
 
 b {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .lead {
@@ -52,7 +47,7 @@ b {
   font-size: 0.7rem;
   font-weight: 600;
   line-height: 0;
-  letter-spacing: 0.1px;
+  letter-spacing: 1px;
 }
 
 /* ==== nav styling ==== */
@@ -86,7 +81,7 @@ b {
 }
 
 .bg-light {
-  background-color: #F6F5F3!important;
+  background-color: #F7F7F7!important;
 }
 
 .fa {
@@ -140,19 +135,13 @@ br.large {
 
 img, video {
   width: 100%;
-
-  display: inline-block;
-  height: auto;
-  max-width: 100%;
-  vertical-align: middle;
-
 }
 
-/*img {
+img {
   box-shadow: 0 3px 20px rgba(0,0,0,0.09);
   border-radius: 2px;
 }
-*/
+
 img, #carousel {
   margin: 30px 0;
 }
