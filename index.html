@@ -38,7 +38,7 @@
             <canvas width="1000px" height="100px" class="canvas" id="blurCanvasBottom"></canvas>
         </div>
         <!-- nav -->
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav" style="background-color:rgba(255,255,255,20)">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav" style="background-color:rgba(255,255,255,0.8)">
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger" href="#page-top"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -69,7 +69,7 @@
                       
 
                         <p class="lead">  
-I listen to people’s opinion and needs to understand why they behave this way and how to improve their experience.<br>
+I listen to people’s opinion and needs to understand why they behave this way and how to improve their experience. <br>
 
                                <img src="assets/photo profile.png">
 
@@ -249,23 +249,75 @@ I listen to people’s opinion and needs to understand why they behave this way 
     </div>
     </div>
     -->
-     <div class="section bg-white">
+
+
+     <div class="section" style="background-color: #f1f1f1">
         <div class="container">
 
-<div class="wrap">
-    <div class="left">左侧</div>
-    <div class="middle">中间</div>
-    <div class="right">右侧</div>
+
+
+
+
+<!--start image gallery-->
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('nature')"> Illustration</button>
+  <button class="btn" onclick="filterSelection('cars')"> Posters</button>
+  <button class="btn" onclick="filterSelection('people')"> Photography</button>
 </div>
 
-<style type="text/css">
-    .wrap {display: flex; justify-content: space-between;}
-    .left, .right, .middle {height: 100px;}
-    .left {width: 200px; background: coral;}
-    .right {width: 120px; background: lightblue;}
-    .middle {background: #555; width: 100%; margin: 0 20px;}
-</style>
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column nature">
+    <div class="content">
+      <img src="assets/preview-typebook.png" alt="Mountains" style="width:100%">
+      <h5>Mountains</h5>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column nature">
+    <div class="content">
+      <img src="assets/preview-typebook.png" alt="Lights" style="width:100%">
+      <h5>Lights</h5>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column nature">
+    <div class="content">
+      <img src="assets/preview-typebook.png" alt="Nature" style="width:100%">
+      <h5>Forest</h5>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
 
+  <div class="column cars">
+    <div class="content">
+      <img src="assets/preview-typebook.png" alt="Car" style="width:100%">
+      <h5>Retro</h5>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column cars">
+    <div class="content">
+      <img src="assets/preview-typebook.png" alt="Car" style="width:100%">
+      <h5>Fast</h5>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column cars">
+    <div class="content">
+      <img src="assets/preview-typebook.png" alt="Car" style="width:100%">
+      <h5>Classic</h5>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+
+  </div>
+<!-- END GRID -->
+</div>
+
+
+</div></div>
 
 
     <!-- end of canvas wrap-->
