@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="2886px" viewBox="0 0 1440 2886" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #151619;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="34" y="58" width="50" height="30" rx="15"></rect>
+        <filter x="-5.0%" y="-8.3%" width="110.0%" height="116.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="34" y="116" width="50" height="30" rx="15"></rect>
+        <filter x="-5.0%" y="-8.3%" width="110.0%" height="116.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="180" height="40" rx="4"></rect>
+        <rect id="path-7" x="0" y="0" width="180" height="40" rx="4"></rect>
+        <rect id="path-9" x="0" y="0" width="110" height="30" rx="4"></rect>
+        <path d="M7,455 L134,455 C136.209139,455 138,456.790861 138,459 L138,481 C138,483.209139 136.209139,485 134,485 L7,485 C4.790861,485 3,483.209139 3,481 L3,459 C3,456.790861 4.790861,455 7,455 Z" id="path-11"></path>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="135" height="30" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide" transform="translate(96.000000, -39.000000)">
+            <g id="07-Input-Fields" transform="translate(0.000000, 2595.000000)">
+                <text font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="1" y="23">07 Input Fields</tspan>
+                </text>
+                <g id="insert" transform="translate(0.000000, 73.000000)">
+                    <rect id="Rectangle-3" fill="#727E8B" x="0" y="39" width="270" height="1"></rect>
+                    <text id="Bitte-eingeben" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#727E8B">
+                        <tspan x="0" y="28">Bitte eingeben</tspan>
+                    </text>
+                    <g id="send_button" transform="translate(277.000000, 0.000000)">
+                        <g id="insert">
+                            <rect id="Rectangle-12" fill="#525B65" x="0" y="0" width="40" height="40" rx="4"></rect>
+                            <g id="icon_send" transform="translate(9.000000, 12.000000)" fill="#FFFFFF">
+                                <polygon id="send_icon" points="5.19565589 8.86625264 14.75 3.75292969 3.74360343 6.61908299 0 2.64297388 23 0 12.6163022 16 8.3736171 11.1947226 2.87880697 13.255995"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="insert" transform="translate(0.000000, 155.000000)">
+                    <rect id="Rectangle-3" fill="#FF4049" x="0" y="42" width="270" height="1"></rect>
+                    <text id="Bitte-eingeben" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#727E8B">
+                        <tspan x="0" y="30">Bitte eingeben</tspan>
+                    </text>
+                    <text id="Passwort-mit-mind.-5" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FF4049">
+                        <tspan x="1" y="11">Passwort mit mind. 5 Buchstaben</tspan>
+                    </text>
+                    <g id="send_button" transform="translate(277.000000, 3.000000)">
+                        <g id="insert">
+                            <rect id="Rectangle-12" fill="#525B65" x="0" y="0" width="40" height="40" rx="4"></rect>
+                            <g id="icon_send" transform="translate(9.000000, 12.000000)" fill="#FFFFFF">
+                                <polygon id="send_icon" points="5.19565589 8.86625264 14.75 3.75292969 3.74360343 6.61908299 0 2.64297388 23 0 12.6163022 16 8.3736171 11.1947226 2.87880697 13.255995"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="insert" transform="translate(368.000000, 73.000000)">
+                    <rect id="Rectangle-3" fill="#48BA8C" x="0" y="38" width="270" height="2"></rect>
+                    <text id="Account-Ma" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="0" y="27">Account Ma</tspan>
+                    </text>
+                    <g id="send_button" transform="translate(277.000000, 0.000000)">
+                        <g id="insert">
+                            <rect id="Rectangle-12" fill="#525B65" x="0" y="0" width="40" height="40" rx="4"></rect>
+                            <g id="icon_send" transform="translate(9.000000, 12.000000)" fill="#FFFFFF">
+                                <polygon id="send_icon" points="5.19565589 8.86625264 14.75 3.75292969 3.74360343 6.61908299 0 2.64297388 23 0 12.6163022 16 8.3736171 11.1947226 2.87880697 13.255995"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M78.5,12.5 L78.5,31.5262976" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="06-Switches,-Pagination" transform="translate(474.000000, 2354.000000)">
+                <g id="Rectangle-7">
+                    <use fill="#41655E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <circle id="Oval-4" fill="#48BA8C" cx="69" cy="73" r="12"></circle>
+                <text id="No" opacity="0.496999547" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="0.264" y="78">No</tspan>
+                </text>
+                <text id="Yes" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="98" y="78">Yes</tspan>
+                </text>
+                <g id="Rectangle-7">
+                    <use fill="#969FA8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <circle id="Oval-4" fill="#FFFFFF" cx="49" cy="131" r="12"></circle>
+                <text id="No" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="0.264" y="136">No</tspan>
+                </text>
+                <text id="Yes" opacity="0.504868659" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="98" y="136">Yes</tspan>
+                </text>
+                <text id="05-Links" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="0" y="23">06 Pagination, Switches</tspan>
+                </text>
+                <g id="pagination" transform="translate(287.000000, 69.000000)">
+                    <circle id="white_oval" fill="#FFFFFF" cx="3.5" cy="3.5" r="3.5"></circle>
+                    <circle id="Oval-5" fill="#727E8B" cx="27.5" cy="3.5" r="3.5"></circle>
+                    <circle id="Oval-5" fill="#727E8B" cx="15.5" cy="3.5" r="3.5"></circle>
+                    <circle id="Oval-5" fill="#727E8B" cx="40.5" cy="3.5" r="3.5"></circle>
+                </g>
+                <text id="Page-1-of-4" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="371" y="76">Page 1 of 4</tspan>
+                </text>
+            </g>
+            <g id="05-Links" transform="translate(0.000000, 2354.000000)">
+                <text font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="0" y="23">05 Links</tspan>
+                </text>
+                <text id="Default-Link-16px" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#4BA4F7">
+                    <tspan x="0" y="62">Default Link 16px </tspan>
+                </text>
+                <text id="Header-Link-12px-upp" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="0" y="98">HEADER LINK 12PX UPPERCASE</tspan>
+                </text>
+                <text id="Delete-Link-16px" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FF4049">
+                    <tspan x="0" y="137">Delete Link 16px</tspan>
+                </text>
+            </g>
+            <g id="04-Buttons" transform="translate(0.000000, 1789.000000)">
+                <text font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="0" y="23">04 Buttons</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#525B65" x="0" y="61" width="180" height="40" rx="4"></rect>
+                <text id="Default" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="64.664" y="76">Default</tspan>
+                </text>
+                <text id="Min-width-180px---h" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="207" y="87">Min width 180px   -   h 40px   -   Padding L/R 15px   -    #525B65</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#F79900" x="802" y="57" width="180" height="40" rx="4"></rect>
+                <text id="CTA-Default" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="849.624" y="72">CTA Default</tspan>
+                </text>
+                <text id="#41876B" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="1006" y="83">#41876B</tspan>
+                </text>
+                <g id="Group-3" transform="translate(802.000000, 169.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Rectangle-2" fill="#F79900" xlink:href="#path-5"></use>
+                    <rect id="Rectangle" fill="#D08101" mask="url(#mask-6)" x="27" y="0" width="128" height="40"></rect>
+                </g>
+                <text id="CTA-OnTap" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="851.688" y="184">CTA OnTap</tspan>
+                </text>
+                <text id="Common-tap-animation" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="1006" y="195">Common tap animation #41655E</tspan>
+                </text>
+                <text id="Send-Button-Default" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="862" y="298">Send Button Default</tspan>
+                </text>
+                <text id="Send-Button-OnTap" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="862" y="356">Send Button OnTap</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#F79900" x="802.5" y="114.5" width="179" height="39" rx="4"></rect>
+                <text id="CTA-Inactive" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#F79900">
+                    <tspan x="847.256" y="129">CTA Inactive</tspan>
+                </text>
+                <text id="Outline/Text-#41876B" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="1006" y="140">Outline/Text #41876B </tspan>
+                </text>
+                <g id="Group" transform="translate(0.000000, 169.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Rectangle-2" fill="#525B65" xlink:href="#path-7"></use>
+                    <rect id="Rectangle-9" fill="#343941" mask="url(#mask-8)" x="57" y="-5" width="66" height="54"></rect>
+                </g>
+                <text id="OnTap" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="66.728" y="184">OnTap</tspan>
+                </text>
+                <text id="Common-tap-animation" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="207" y="195">Common tap animation #343941, fills color up to the sides</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#727E8B" opacity="0.698652627" x="0.5" y="115.5" width="179" height="39" rx="4"></rect>
+                <text id="Inactive" opacity="0.696614583" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#727E8B">
+                    <tspan x="62.296" y="130">Inactive</tspan>
+                </text>
+                <text id="Outline/Text-#727E8B" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="207" y="141">Outline/Text #727E8B  -  70% alpha</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#525B65" x="3" y="266" width="110" height="30" rx="4"></rect>
+                <text id="Default" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="32.664" y="281">Default</tspan>
+                </text>
+                <g id="Group-2" transform="translate(3.000000, 359.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Rectangle-2" fill="#525B65" xlink:href="#path-9"></use>
+                    <rect id="Rectangle-10" fill="#41876B" mask="url(#mask-10)" x="11" y="0" width="88" height="30"></rect>
+                </g>
+                <text id="OnTap" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="34.728" y="374">OnTap</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#727E8B" opacity="0.698199728" x="3.5" y="312.5" width="109" height="29" rx="4"></rect>
+                <text id="Inactive" opacity="0.700067935" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#727E8B">
+                    <tspan x="30.296" y="327">Inactive</tspan>
+                </text>
+                <text id="Min-width-110px---He" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="164" y="286">Min width 110px   -   Height 30px   -   Padding L/R 15px   -    #525B65</tspan>
+                </text>
+                <text id="Common-tap-animation" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="164" y="379">Common tap animation</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#41876B" x="3" y="408" width="110" height="30" rx="4"></rect>
+                <text id="Active" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="35.928" y="423">Active</tspan>
+                </text>
+                <text id="+-Add-Element" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="14" y="470">+ Add Element</tspan>
+                </text>
+                <use id="Rectangle-15" stroke="#727E8B" mask="url(#mask-12)" stroke-width="2" stroke-dasharray="2,2" xlink:href="#path-11"></use>
+                <text id="Selected" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="164" y="428">Selected</tspan>
+                </text>
+                <text id="Add-e.g.-an-Expertis" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="164" y="474">Add e.g. an Expertise</tspan>
+                </text>
+                <text id="Outline/Text-#727E8B" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="164" y="332">Outline/Text #727E8B  -  70% alpha</tspan>
+                </text>
+                <g id="send_button" transform="translate(801.000000, 272.000000)">
+                    <g id="insert">
+                        <rect id="Rectangle-12" fill="#525B65" x="0" y="0" width="40" height="40" rx="4"></rect>
+                        <g id="icon_send" transform="translate(9.000000, 12.000000)" fill="#FFFFFF">
+                            <polygon id="send_icon" points="5.19565589 8.86625264 14.75 3.75292969 3.74360343 6.61908299 0 2.64297388 23 0 12.6163022 16 8.3736171 11.1947226 2.87880697 13.255995"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="insert" transform="translate(801.000000, 329.000000)">
+                    <rect id="Rectangle-12" fill="#41876B" x="0" y="0" width="40" height="40" rx="4"></rect>
+                    <g id="icon_send" transform="translate(7.000000, 12.000000)" fill="#FFFFFF">
+                        <polygon id="send_icon" points="6.09924822 10.528675 17.3152174 4.456604 4.3946649 7.86016106 0 3.13853148 27 0 14.8104417 19 9.82989834 13.2937331 3.37946905 15.7414941"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="03-Icons" transform="translate(0.000000, 1411.000000)">
+                <text font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="0" y="23">03 Icons</tspan>
+                </text>
+                <polygon id="send_icon" stroke="#FFFFFF" opacity="0.5" points="14.1956559 105.866253 23.75 100.75293 12.7436034 103.619083 9 99.6429739 32 97 21.6163022 113 17.3736171 108.194723 11.878807 110.255995"></polygon>
+                <text id="Inactive---Outline-#" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="75" y="109">Inactive - Outline #FFFFFF 50% alpha</tspan>
+                </text>
+                <text id="Default---#FFFFFF" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="75" y="156">Default - #FFFFFF</tspan>
+                </text>
+                <text id="OnTap---#48BA8C" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="75" y="201">OnTap - #48BA8C</tspan>
+                </text>
+                <polygon id="send_icon" fill="#FFFFFF" points="12.1956559 149.866253 21.75 144.75293 10.7436034 147.619083 7 143.642974 30 141 19.6163022 157 15.3736171 152.194723 9.87880697 154.255995"></polygon>
+                <polygon id="send_icon" fill="#48BA8C" points="10.7769425 192.636957 23.2391304 185.92572 8.882961 189.687546 4 184.468903 34 181 20.4560463 202 14.9221093 195.693073 7.75496561 198.398493"></polygon>
+                <text id="Icons-are-used-from" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="0" y="60">Icons are used from legacy. If there is one missing, create a new one. </tspan>
+                </text>
+                <text id="3-4-6-ö-,-&amp;-Ö-$-§-)" font-family=".SFNSDisplay, .SF NS Display" font-size="26" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="608" y="107">3</tspan>
+                    <tspan x="623.742188" y="107" font-family="Monaco"> </tspan>
+                    <tspan x="639.344727" y="107">4</tspan>
+                    <tspan x="655.429688" y="107" font-family="Monaco"> </tspan>
+                    <tspan x="671.032227" y="107">6</tspan>
+                    <tspan x="686.952148" y="107" font-family="Monaco"> </tspan>
+                    <tspan x="702.554688" y="107">ö</tspan>
+                    <tspan x="717.179688" y="107" font-family="Monaco"> </tspan>
+                    <tspan x="732.782227" y="107">,</tspan>
+                    <tspan x="739.739258" y="107" font-family="Monaco"> </tspan>
+                    <tspan x="755.341797" y="107">&amp;</tspan>
+                    <tspan x="773.089844" y="107" font-family="Monaco"> </tspan>
+                    <tspan x="788.692383" y="107"></tspan>
+                    <tspan x="608" y="140">Ö</tspan>
+                    <tspan x="627.373047" y="140" font-family="Monaco"> </tspan>
+                    <tspan x="642.975586" y="140">$</tspan>
+                    <tspan x="659.060547" y="140" font-family="Monaco"> </tspan>
+                    <tspan x="674.663086" y="140">§</tspan>
+                    <tspan x="687.561523" y="140" font-family="Monaco"> </tspan>
+                    <tspan x="703.164062" y="140">)</tspan>
+                    <tspan x="711.59375" y="140" font-family="Monaco"> </tspan>
+                    <tspan x="727.196289" y="140">H</tspan>
+                    <tspan x="745.731445" y="140" font-family="Monaco"> </tspan>
+                    <tspan x="761.333984" y="140">c</tspan>
+                    <tspan x="608" y="173">n</tspan>
+                    <tspan x="622.510742" y="173" font-family="Monaco"> </tspan>
+                    <tspan x="638.113281" y="173">Q</tspan>
+                    <tspan x="657.486328" y="173" font-family="Monaco"> </tspan>
+                    <tspan x="673.088867" y="173">R</tspan>
+                    <tspan x="689.148438" y="173" font-family="Monaco"> </tspan>
+                    <tspan x="704.750977" y="173">X</tspan>
+                    <tspan x="721.610352" y="173" font-family="Monaco"> </tspan>
+                    <tspan x="737.212891" y="173">W</tspan>
+                    <tspan x="761.587891" y="173" font-family="Monaco"> </tspan>
+                    <tspan x="777.19043" y="173">/</tspan>
+                    <tspan x="608" y="206">ä</tspan>
+                    <tspan x="621.837891" y="206" font-family="Monaco"> </tspan>
+                    <tspan x="637.44043" y="206">?</tspan>
+                    <tspan x="650.516602" y="206" font-family="Monaco"> </tspan>
+                    <tspan x="666.119141" y="206">+</tspan>
+                    <tspan x="682.204102" y="206" font-family="Monaco"> </tspan>
+                    <tspan x="697.806641" y="206">z</tspan>
+                    <tspan x="710.730469" y="206" font-family="Monaco"> </tspan>
+                    <tspan x="726.333008" y="206">ü</tspan>
+                    <tspan x="740.84375" y="206" font-family="Monaco"> </tspan>
+                    <tspan x="756.446289" y="206">^</tspan>
+                    <tspan x="768.176758" y="206" font-family="Monaco"> </tspan>
+                </text>
+                <text id="Examples-from-legacy" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                    <tspan x="608" y="60">Examples from legacy:</tspan>
+                </text>
+                <path d="M620,258.016235 L620,256 L618,256 L618,258.016235 L617.898438,258.016235 L609,257 L609,251 L614,251 L614,248 C614,247.447715 614.447715,247 615,247 L623,247 C623.552285,247 624,247.447715 624,248 L624,251 L629,251 L629,257 L620.083984,258.016235 L620,258.016235 Z M620,259.545776 L620.083984,259.545776 L629,258.662964 L629,265 L609,265 L609,258.662964 L617.898438,259.545776 L618,259.545776 L618,261 L620,261 L620,259.545776 Z M616.5,248.5 C615.947715,248.5 615.5,248.947715 615.5,249.5 L615.5,251 L622.5,251 L622.5,249.5 C622.5,248.947715 622.052285,248.5 621.5,248.5 L616.5,248.5 Z" id="suitcase_icon" fill="#FFFFFF"></path>
+            </g>
+            <g id="02-Typography" transform="translate(0.000000, 740.000000)">
+                <g id="Label-1" transform="translate(0.000000, 277.000000)" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">
+                    <text font-size="12" letter-spacing="1.47692311" fill="#FFFFFF">
+                        <tspan x="0" y="11">LABEL </tspan>
+                        <tspan x="48.8695386" y="11" letter-spacing="1.36331367">1</tspan>
+                    </text>
+                    <text id="Font-family:-Helveti" font-size="16" fill="#999999">
+                        <tspan x="0" y="47">Font-family: Helvetica Neue -  Font-size: 12px  -  Font-weight: regular -  Line-height:  13*1.4px  -  Colour: #fff   -  Letter spacing: 1,6</tspan>
+                    </text>
+                </g>
+                <g id="Label-1" transform="translate(0.000000, 366.000000)">
+                    <text id="Label-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0" y="12">LABEL 2</tspan>
+                    </text>
+                    <text id="Font-family:-Helveti" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                        <tspan x="0" y="48">Font-family: Helvetica Neue -  Font-size: 12px  -  Font-weight: bold -  Line-height:  13*1.4px  -  Colour: #fff</tspan>
+                    </text>
+                </g>
+                <g id="Headline-H1" transform="translate(0.000000, 62.000000)">
+                    <text font-family="SourceSansPro-Light, Source Sans Pro" font-size="26" font-weight="300" fill="#FFFFFF">
+                        <tspan x="0" y="26">Headline H1</tspan>
+                    </text>
+                    <text id="Font-family:-Source" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                        <tspan x="0" y="62">Font-family: Source Sans Pro -  Font-size: 26px  -  Font-weight: light  -  Line-height:  26*1.4px  -  Colour: #fff</tspan>
+                    </text>
+                </g>
+                <g id="Headline-H2" transform="translate(0.000000, 166.000000)">
+                    <text font-family="SourceSansPro-Light, Source Sans Pro" font-size="22" font-weight="300" fill="#FFFFFF">
+                        <tspan x="0" y="22">Headline H2</tspan>
+                    </text>
+                    <text id="Font-family:-Source" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#999999">
+                        <tspan x="0" y="58">Font-family: Source Sans Pro -  Font-size: 22px  -  Font-weight: light  -  Line-height:  22*1.4px  -  Colour: #fff</tspan>
+                    </text>
+                </g>
+                <text id="This-is-a-paragraph" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="22.3999996" fill="#FFFFFF">
+                    <tspan x="0" y="483.6">This is a paragraph using Helvetica Neue Regular at 16px, with a 16*1.4px line-height in the colour #fff. Line-heights </tspan>
+                    <tspan x="0" y="506">can sometimes be 16*1.2px, e.g. in chat bubbles or cards. For non-iOS devices, it will be Arial.</tspan>
+                </text>
+                <text id="This-is-a-small-para" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                    <tspan x="0" y="544">This is a small paragraph using Helvetica Neue Regular at 14px, with a 14*1.4px line-height in the colour #fff.</tspan>
+                </text>
+                <text font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="0" y="23">02 Typography</tspan>
+                </text>
+            </g>
+            <g id="01-Colours" transform="translate(0.000000, 133.000000)">
+                <text id="01-Colour-palette" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#48BA8C">
+                    <tspan x="0" y="23">01 Colour palette</tspan>
+                </text>
+                <circle id="41876B" fill="#41876B" cx="37" cy="282" r="37"></circle>
+                <circle id="48BA8C" fill="#48BA8C" cx="37" cy="193" r="37"></circle>
+                <circle id="4BA4F7" fill="#4BA4F7" cx="828" cy="460" r="37"></circle>
+                <circle id="525B65" fill="#525B65" cx="433" cy="196" r="37"></circle>
+                <circle id="41655E" fill="#41655E" cx="37" cy="371" r="37"></circle>
+                <circle id="262B33" fill="#343941" cx="433" cy="285" r="37"></circle>
+                <circle id="151619" stroke="#979797" fill="#151619" cx="433" cy="374" r="37"></circle>
+                <circle id="727E8B" fill="#727E8B" cx="433" cy="107" r="37"></circle>
+                <circle id="E9EEF1" fill="#E9EEF1" cx="37" cy="104" r="37"></circle>
+                <text id="#4BA4F7-Link-Blue" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="886" y="464">#4BA4F7</tspan>
+                    <tspan x="886" y="482">Link Blue</tspan>
+                </text>
+                <text id="#525B65-Halfway-Grey" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="490" y="200">#525B65</tspan>
+                    <tspan x="490" y="218">Halfway Grey</tspan>
+                </text>
+                <text id="#727E8B-Button-Grey" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="489" y="111">#727E8B</tspan>
+                    <tspan x="489" y="129">Button Grey</tspan>
+                </text>
+                <text id="#343941-Dark-Grey" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="489" y="289">#343941</tspan>
+                    <tspan x="489" y="307">Dark Grey</tspan>
+                </text>
+                <text id="#151619-Background-B" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="489" y="365">#151619</tspan>
+                    <tspan x="489" y="383">Background Black</tspan>
+                </text>
+                <text id="#E9EEF1-Soft-White" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="94" y="108">#E9EEF1</tspan>
+                    <tspan x="94" y="126">Soft White</tspan>
+                </text>
+                <text id="#48BA8C-Signal-Green" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="94" y="197">#48BA8C</tspan>
+                    <tspan x="94" y="215">Signal Green</tspan>
+                </text>
+                <text id="#41876B-Emerald-Gree" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="94" y="286">#41876B</tspan>
+                    <tspan x="94" y="304">Emerald Green</tspan>
+                </text>
+                <text id="#41655E-Dark-Emerald" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="94" y="375">#41655E</tspan>
+                    <tspan x="94" y="393">Dark Emerald Green</tspan>
+                </text>
+                <circle id="5F4B8B" fill="#5F4B8B" cx="828" cy="193" r="37"></circle>
+                <circle id="9881BB" fill="#AB89DE" cx="828" cy="104" r="37"></circle>
+                <circle id="FF4049" fill="#FF4049" cx="433" cy="460" r="37"></circle>
+                <circle id="D08101" fill="#D08101" cx="828" cy="374" r="37"></circle>
+                <circle id="969FA8" fill="#969FA8" cx="39" cy="460" r="37"></circle>
+                <text id="#5F4B8B-Cyber-Grape" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="884" y="191">#5F4B8B</tspan>
+                    <tspan x="884" y="209">Cyber Grape</tspan>
+                </text>
+                <text id="#FF4049-System-Red" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="489" y="460">#FF4049</tspan>
+                    <tspan x="489" y="478">System Red</tspan>
+                </text>
+                <text id="#D08101-Darker-Exper" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="884" y="369">#D08101</tspan>
+                    <tspan x="884" y="387">Darker Experteer Orange</tspan>
+                </text>
+                <circle id="D08101" fill="#F79900" cx="828" cy="285" r="37"></circle>
+                <text id="#F79900-Experteer-Or" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="884" y="280">#F79900</tspan>
+                    <tspan x="884" y="298">Experteer Orange</tspan>
+                </text>
+                <text id="#969FA8-Light-Grey" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="95" y="455">#969FA8</tspan>
+                    <tspan x="95" y="473">Light Grey</tspan>
+                </text>
+                <text id="#AB89DE-Light-Lavend" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="884" y="97">#AB89DE</tspan>
+                    <tspan x="884" y="115">Light Lavender</tspan>
+                </text>
+                <text id="Upsell-CTA-Button" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFCC00">
+                    <tspan x="884" y="315">Upsell CTA Button</tspan>
+                </text>
+                <text id="Text-Links" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFCC00">
+                    <tspan x="886" y="499">Text Links</tspan>
+                </text>
+                <text id="Error-Messages" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFCC00">
+                    <tspan x="489" y="496">Error Messages</tspan>
+                </text>
+                <text id="Default-Design-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFCC00">
+                    <tspan x="94" y="322">Default Design Color</tspan>
+                </text>
+                <text id="Complementary-Design" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFCC00">
+                    <tspan x="884" y="135">Complementary Design Color</tspan>
+                </text>
+                <text id="Background-Color" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#FFCC00">
+                    <tspan x="489" y="403">Background Color</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
