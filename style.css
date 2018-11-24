@@ -1,6 +1,6 @@
 body {
   font-family: 'proxima-nova','Helvetica Neue', Helvetica, sans-serif;
-  background-image: url("assets/background.jpg");
+  /*background-image: url("assets/background.jpg");*/
   letter-spacing: 0.3px;
   color: rgba(0,0,0,0.8);
 }
@@ -143,14 +143,14 @@ img, video {
   width: 100%;
 }
 
-img {
+/*img{
    rgba(0,0,0,0.09);
   border-radius: 2px;
 }
 
 img, #carousel {
   margin: 30px 0;
-}
+}*/
 
 a.button {
   border: 1px solid #FF7A67;
