@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="158px" viewBox="0 0 1440 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(0.000000, -15827.000000)">
+            <g id="UX-process" transform="translate(0.000000, 4148.000000)" fill="#E9EEF1">
+                <rect id="Rectangle-31" x="0" y="0" width="1440" height="13192"></rect>
+            </g>
+            <rect id="Rectangle-35" fill="#FFFFFF" x="0" y="14937" width="1440" height="1001"></rect>
+            <rect id="Rectangle-35" fill="#FFFFFF" x="0" y="15945" width="1444" height="1105"></rect>
+            <text id="Interaction-with-Cha" opacity="0.753226902" font-family="Avenir-BookOblique, Avenir" font-size="14" font-style="italic" font-weight="normal" fill="#4A4A4A">
+                <tspan x="659" y="15856">Interaction with Chat</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

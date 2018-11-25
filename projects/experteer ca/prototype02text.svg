@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="221px" viewBox="0 0 1440 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#37373B" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="CA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(0.000000, -16832.000000)">
+            <g id="UX-process" transform="translate(0.000000, 4148.000000)" fill="#E9EEF1">
+                <rect id="Rectangle-31" x="0" y="0" width="1440" height="13192"></rect>
+            </g>
+            <rect id="Rectangle-30" fill="url(#linearGradient-1)" x="0" y="16971" width="1440" height="8041"></rect>
+            <rect id="Rectangle-35" fill="#FFFFFF" x="0" y="15945" width="1444" height="1105"></rect>
+            <text id="Career-path-graph-an" opacity="0.753226902" font-family="Avenir-BookOblique, Avenir" font-size="14" font-style="italic" font-weight="normal" fill="#4A4A4A">
+                <tspan x="489" y="16860">Career path graph animation on Jobdetail page (User landing from vertical)</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

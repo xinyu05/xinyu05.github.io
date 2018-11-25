@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1439px" height="750px" viewBox="0 0 1439 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-89.2349704%" y1="50%" x2="164.649204%" y2="97.5618991%" id="linearGradient-1">
+            <stop stop-color="#37373B" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="CA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(-1.000000, -33437.000000)">
+            <rect id="Rectangle-30" fill="url(#linearGradient-1)" x="0" y="33436" width="1440" height="753"></rect>
+            <text id="05" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" letter-spacing="0.800000012" fill="#FFFFFF">
+                <tspan x="105" y="33566">05</tspan>
+            </text>
+            <text id="Success-metrics-&amp;-KP" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="64" font-weight="normal" line-spacing="80" letter-spacing="0.800000012" fill="#FFFFFF">
+                <tspan x="102.408" y="33653">Success metrics &amp; KPIs</tspan>
+            </text>
+            <text id="In-this-project-I-wo" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" line-spacing="36" letter-spacing="0.800000012" fill="#FFFFFF" fill-opacity="0.8">
+                <tspan x="402" y="33776">In this project I worked with a cross-functional team (VP/developers/data </tspan>
+                <tspan x="402" y="33812">scientists/PMs) and took charge of milestone design presentations to the </tspan>
+                <tspan x="402" y="33848">team. We received a lot of feedback mentioned the new version of the visual </tspan>
+                <tspan x="402" y="33884">experience has improved significantly. After launched the firest version we use </tspan>
+                <tspan x="402" y="33920" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">Google Analytics</tspan>
+                <tspan x="555.542" y="33920"> to track and analyse user behaviors, with new design we </tspan>
+                <tspan x="402" y="33956">increase </tspan>
+                <tspan x="477.042" y="33956" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">user engagement</tspan>
+                <tspan x="633.762" y="33956">, improve </tspan>
+                <tspan x="715.922" y="33956" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">sign up rate, profile rate as well as </tspan>
+                <tspan x="402" y="33992" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">up sell rate </tspan>
+                <tspan x="509.114" y="33992">constantly.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
