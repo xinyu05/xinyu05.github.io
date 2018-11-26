@@ -21,6 +21,7 @@
     <!-- style -->
     <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="float-panel.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://use.fontawesome.com/3f9ee25b59.js"></script>
@@ -30,12 +31,27 @@
 </head>
    
 <body>
+
+    
+
+<div class="floatWrapper" style="float:right;">
+<div class="float-panel" data-top="20px" style="width:120px;">
+    <div id="vertical-nav">
+        <a href="#part1"> ● Overview </a>
+        <a href="#part2"> ● Challenge </a>
+        <a href="#part3"> ● UX Process </a>
+        <a href="#part4"> ● Visual Design </a>
+        <a href="#part5"> ● Success Metrics </a>
+    </div>
+</div>
+</div>
   
 
 
-    <img src="01.svg"></img>
-    <img src="challenge.svg"></img>
-    
+    <img id="part1" src="01.svg"></img>
+
+    <img id="part2" src="challenge.svg"></img>
+    <img id="part3" src="infoarch00.svg"></img>
     <img src="infoarch01.png"></img>
     <img src="infoarch01text.svg"></img>
     <img src="infoarch02.svg"></img>
@@ -55,7 +71,7 @@
 </source></source></video>
 
 <img src="prototype02text.svg"></img>
-<img src="visual01.svg"></img>
+<img id="part4" src="visual01.svg"></img>
 <img src="visual02.svg"></img>
 <img src="visual03.svg"></img>
 
@@ -70,7 +86,7 @@
 <img src="product01.svg"></img>
 <img src="product02.svg"></img>
 <img src="styleguide.svg"></img>
-<img src="metrics.svg"></img>
+<img id="part5" src="metrics.svg"></img>
 
  <br>
   <br>
@@ -110,7 +126,7 @@
     <script src="../../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="../../vendor/jquery-easing/jquery.easing.min.js"></script>
     <script src="../../js/scrolling-nav.js"></script>
-
+</div>
   </body>
 
 </html>

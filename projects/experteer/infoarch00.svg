@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1444px" height="1052px" viewBox="0 0 1444 1052" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(2.000000, -4157.000000)">
+            <g id="UX-process" transform="translate(0.000000, 4157.000000)">
+                <rect id="Rectangle-31" fill="#E9EEF1" x="0" y="0" width="1440" height="13183"></rect>
+                <text id="03" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" letter-spacing="0.800000012" fill="#151619">
+                    <tspan x="107" y="133">03</tspan>
+                </text>
+                <text id="UX-Design-Process" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="64" font-weight="normal" line-spacing="80" letter-spacing="0.800000012" fill="#151619">
+                    <tspan x="107.98" y="225">UX Design Process</tspan>
+                </text>
+                <text id="First-it-took-me-som" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" line-spacing="36" letter-spacing="0.800000012" fill="#151619">
+                    <tspan x="407" y="390"></tspan>
+                    <tspan x="407" y="426">First it took me sometime to understood the business model of Experteer and </tspan>
+                    <tspan x="407" y="462">the vision of new mobile experience. Experteer has a unique market position </tspan>
+                    <tspan x="407" y="498">as the premium career and recruitment service. </tspan>
+                    <tspan x="802.098001" y="498" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">The question began with </tspan>
+                    <tspan x="407" y="534" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">how to highlight our strengths and different us from competitors. </tspan>
+                    <tspan x="1001.006" y="534">Having </tspan>
+                    <tspan x="407" y="570">understood the business model, I focused on researching recruitment trends </tspan>
+                    <tspan x="407" y="606">and recent innovations. To do so, I carefully examine the apps of the most </tspan>
+                    <tspan x="407" y="642">popular vendors in the sphere – Linkedin, Monster, Glassdoor, Indeed, and </tspan>
+                    <tspan x="407" y="678">others. This research gave me a couple of useful insights and valuable ideas.</tspan>
+                    <tspan x="407" y="714"></tspan>
+                </text>
+            </g>
+            <text id="After-research-and-r" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" line-spacing="36" letter-spacing="0.800000012" fill="#151619">
+                <tspan x="402" y="5055">After research and rounds of discussion with skateholder, product managers, </tspan>
+                <tspan x="402" y="5091">CRM team and developeps, we defined </tspan>
+                <tspan x="733.48" y="5091" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">key features</tspan>
+                <tspan x="844.474001" y="5091"> of our product and start </tspan>
+                <tspan x="402" y="5127">the UX stage with creating the basic information architecture. </tspan>
+            </text>
+            <text id="Research-&amp;-Ideas" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="36" font-weight="normal" line-spacing="36" letter-spacing="1.6" fill="#151619">
+                <tspan x="400" y="4528">Research &amp; Ideas</tspan>
+            </text>
+            <text id="Information-architec" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="36" font-weight="normal" line-spacing="36" letter-spacing="1.60000014" fill="#151619">
+                <tspan x="402" y="5017">Information architecture</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
