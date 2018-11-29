@@ -2,7 +2,7 @@ body {
   font-family: 'proxima-nova','Helvetica Neue', Helvetica, sans-serif;
   /*background-image: url("assets/background.jpg");*/
   letter-spacing: 0.3px;
-  color: rgba(0,0,0,0.8);
+  color: rgba(42,46,49,1);
 }
 
 a, a:visited, a:link {
@@ -20,12 +20,14 @@ a:hover {
 
 
 h1 {
-    
-    font-size: 400px;
-    font-weight: 900;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 3.5rem;
+    font-weight: 1000;
   }
 
+
 h2, h3, h4, h5 {
+
   font-weight: 900;
 }
 
@@ -40,12 +42,15 @@ b {
 .lead {
   font-size: 0.98rem;
   line-height: 1.9rem;
+ 
+
 }
 
 .small-text, li {
   font-size: 0.9rem;
   line-height: 1.5rem;
   font-weight: 300;
+  
 }
 
 .tiny-title {
@@ -55,6 +60,11 @@ b {
   font-weight: 600;
   line-height: 0;
   letter-spacing: 1px;
+}
+
+.white-text {
+ 
+  color: rgba(255, 255, 255, 0.9);
 }
 
 /* ==== nav styling ==== */
@@ -83,13 +93,30 @@ b {
   width: 100%;
 }
 
+.bg-home {
+  background-image: url("assets/backgroundhome.jpg");
+}
+
+.bg-about {
+  background-image: url("assets/backgroundabout.jpg");
+}
+
 .bg-white {
   background-image: url("assets/background.jpg");
 }
 
 .bg-light {
-  background-color: #F7F7F7!important;
+  background-color: #515B64!important;
 }
+
+.bg-dark {
+  background-color: #2a2e31!important;
+}
+
+.bg-grey {
+  background-color: #727e8b!important;
+}
+
 
 .fa {
   color: #3B3B3B;
@@ -128,7 +155,7 @@ header {
 }
 
 hr {
-  margin: 150px 0;
+  margin: 140px 0;
 }
 
 hr.underline {
@@ -207,16 +234,12 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 
 
 
-/* Center website */
+/* picture gallery */
 .main {
     max-width: 1000px;
     margin: auto;
 }
 
-h1 {
-    font-size: 50px;
-    word-break: break-all;
-}
 
 .row {
     margin: 8px -16px;
