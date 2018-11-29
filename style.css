@@ -112,7 +112,7 @@ b {
 
 
 .bg-blog {
-  background-color: #4ECDC4!important;
+  background-color: #2BA84A!important;
 }
 
 .bg-about {
@@ -173,12 +173,13 @@ header {
 }
 
 hr {
-  margin: 140px 0;
+  margin: 180px 0;
+   border-top: 2px 
 }
 
 hr.underline {
   margin: 15px 65px 0 65px;
-  border-top: 3px solid rgba(44,136,222,0.7);
+  border-top: 3px solid rgba(81,91,100,0.5);
 }
 
 br.large {
