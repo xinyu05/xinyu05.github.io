@@ -20,13 +20,20 @@ a:hover {
 
 
 h1 {
-    color: rgba(255, 255, 255, 0.9);
+   
     font-size: 3.5rem;
     font-weight: 1000;
   }
 
 
-h2, h3, h4, h5 {
+h2, 
+{
+  
+    font-size: 3.5rem;
+    font-weight: 1000;
+  }
+
+h3, h4, h5 {
 
   font-weight: 900;
 }
@@ -67,6 +74,12 @@ b {
   color: rgba(255, 255, 255, 0.9);
 }
 
+.black-text {
+ 
+    color: rgba(255, 255, 255, 0.9);
+}
+
+
 /* ==== nav styling ==== */
 .navbar-brand, .nav-link {
   font-size: 0.9rem;
@@ -93,12 +106,17 @@ b {
   width: 100%;
 }
 
-.bg-home {
-  background-image: url("assets/backgroundhome.jpg");
+.bg-work {
+  background-color: #06AED5!important;
+}
+
+
+.bg-blog {
+  background-color: #4ECDC4!important;
 }
 
 .bg-about {
-  background-image: url("assets/backgroundabout.jpg");
+  background-color: #FFE66D!important;
 }
 
 .bg-white {
@@ -106,11 +124,11 @@ b {
 }
 
 .bg-light {
-  background-color: #515B64!important;
+  background-color: #F5F6F8!important;
 }
 
 .bg-dark {
-  background-color: #2a2e31!important;
+  background-color: #171A1E!important;
 }
 
 .bg-grey {
