@@ -74,6 +74,12 @@ b {
   color: rgba(255, 255, 255, 0.9);
 }
 
+.grey-text {
+ 
+  color: rgba(255, 255, 255, 0.5);
+}
+
+
 .black-text {
  
     color: rgba(255, 255, 255, 0.9);
@@ -173,13 +179,18 @@ header {
 }
 
 hr {
-  margin: 180px 0;
+  margin: 280px 0;
    border-top: 2px 
 }
 
 hr.underline {
   margin: 15px 65px 0 65px;
   border-top: 3px solid rgba(81,91,100,0.5);
+}
+
+hr.line{
+   margin: 80px 0;
+  border-top: 1px solid rgba(81,91,100,0.3);
 }
 
 br.large {
@@ -335,4 +346,21 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
     .floatWrapper {float:none!important;}       
     .float-panel {position:static!important;}
     .main-content {padding:20px;margin-right:0px;}
+}
+
+
+
+/*blog*/
+
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
 }
