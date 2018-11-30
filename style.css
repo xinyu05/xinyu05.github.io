@@ -179,7 +179,7 @@ header {
 }
 
 hr {
-  margin: 280px 0;
+  margin: 180px 0;
    border-top: 2px 
 }
 
@@ -278,7 +278,7 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 /* Add padding BETWEEN each column (if you want) */
 .row,
 .row > .column {
-    padding: 8px;
+    padding: 20px;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -297,7 +297,7 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 
 /* Content */
 .content {
-    background-color: white;
+
     padding: 10px;
 }
 
@@ -349,18 +349,3 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 }
 
 
-
-/*blog*/
-
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
-/* Add a card effect for articles */
-.card {
-  background-color: white;
-  padding: 20px;
-  margin-top: 20px;
-}
