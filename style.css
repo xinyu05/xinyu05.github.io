@@ -113,12 +113,12 @@ b {
 }
 
 .bg-work {
-  background-color: #06AED5!important;
+  background-color: #86D3C7!important;
 }
 
 
 .bg-blog {
-  background-color: #2BA84A!important;
+  background-color: #06AED5!important;
 }
 
 .bg-about {
@@ -142,7 +142,7 @@ b {
 }
 
 .bg-experteer{
-  background-color: #202124;
+  background-color: #E9E8E9;
 
 }
 
@@ -193,9 +193,14 @@ hr.underline {
   border-top: 3px solid rgba(81,91,100,0.5);
 }
 
-hr.line{
+hr.whiteline{
    margin: 80px 0;
   border-top: 1px solid rgba(81,91,100,0.3);
+}
+
+hr.blackline{
+   margin: 0px 100px;
+  border-top: 1px solid rgba(32,33,36,0.2);
 }
 
 br.large {
