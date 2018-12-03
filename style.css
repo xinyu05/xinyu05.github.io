@@ -1,7 +1,7 @@
 body {
-  font-family: 'proxima-nova','Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Roboto', Roboto,sans-serif;
   /*background-image: url("assets/background.jpg");*/
-  letter-spacing: 0.3px;
+  letter-spacing: 0.5px;
   color: rgba(42,46,49,1);
 }
 
@@ -22,7 +22,7 @@ a:hover {
 h1 {
    
     font-size: 3.5rem;
-    font-weight: 1000;
+    font-weight: 700;
   }
 
 
@@ -30,12 +30,12 @@ h2,
 {
   
     font-size: 3.5rem;
-    font-weight: 1000;
+    font-weight: 100;
   }
 
 h3, h4, h5 {
 
-  font-weight: 900;
+  font-weight: 500;
 }
 
 h2, h3, h4, h5 {
@@ -43,7 +43,7 @@ h2, h3, h4, h5 {
 }
 
 b {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .lead {
@@ -76,7 +76,7 @@ b {
 
 .grey-text {
  
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 
@@ -139,6 +139,11 @@ b {
 
 .bg-grey {
   background-color: #727e8b!important;
+}
+
+.bg-experteer{
+  background-color: #202124;
+
 }
 
 
