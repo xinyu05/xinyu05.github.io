@@ -36,8 +36,7 @@ h2,
 
 h3, h4, h5 {
 
-  font-weight: 6hr
-  00;
+  font-weight: 600;
 }
 
 h2, h3, h4, h5 {
@@ -142,7 +141,7 @@ b {
 .bg-dark {
   background-color: #292c33!important;
 }
-#171A1E
+
 .bg-grey {
   background-color: #3f4855!important;
 }
