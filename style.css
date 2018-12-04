@@ -31,12 +31,13 @@ h2,
 {
   
     font-size: 3.5rem;
-    font-weight: 100;
+    font-weight: 300;
   }
 
 h3, h4, h5 {
 
-  font-weight: 500;
+  font-weight: 6hr
+  00;
 }
 
 h2, h3, h4, h5 {
@@ -139,9 +140,9 @@ b {
 }
 
 .bg-dark {
-  background-color: #171A1E!important;
+  background-color: #292c33!important;
 }
-
+#171A1E
 .bg-grey {
   background-color: #3f4855!important;
 }
@@ -213,7 +214,7 @@ hr.whiteline{
 
 hr.blackline{
    margin: 0px 100px;
-  border-top: 1px solid rgba(32,33,36,0.2);
+  border-top: 1px solid rgba(32,33,36,0);
 }
 
 br.large {
