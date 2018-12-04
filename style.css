@@ -118,13 +118,17 @@ b {
 }
 
 
-.bg-blog {
+.bg-blue {
   background-color: #05AED5!important;
 }
 
-.bg-about {
-  background-color: #FFE66D!important;
+.bg-yellow {
+  background-color: #FFD500!important;
 }
+.bg-green {
+  background-color: #00C76C!important;
+}
+
 
 .bg-white {
   background-image: url("assets/background.jpg");
@@ -156,7 +160,7 @@ b {
 }
 
 .bg-red{
-  background-color: #ffb8b0;
+  background-color: #FF5E50;
 
 }
 
@@ -203,7 +207,7 @@ hr {
 
 hr.underline {
   margin: 15px 65px 0 65px;
-  border-top: 3px solid rgba(81,91,100,0.5);
+  border-top: 3px solid rgba(63,73,85,0.2);
 }
 
 hr.whiteline{
