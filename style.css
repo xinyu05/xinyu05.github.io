@@ -21,8 +21,9 @@ a:hover {
 
 h1 {
    
-    font-size: 3.5rem;
-    font-weight: 700;
+    font-size: 3rem;
+    font-weight: 620;
+     line-height: 4rem;
   }
 
 
@@ -113,12 +114,12 @@ b {
 }
 
 .bg-work {
-  background-color: #86D3C7!important;
+  background-color: #9CA8BB!important;
 }
 
 
 .bg-blog {
-  background-color: #06AED5!important;
+  background-color: #05AED5!important;
 }
 
 .bg-about {
@@ -127,6 +128,10 @@ b {
 
 .bg-white {
   background-image: url("assets/background.jpg");
+}
+
+.bg-home {
+  background-image: url("assets/backgroundhome.jpg");
 }
 
 .bg-light {
@@ -138,14 +143,22 @@ b {
 }
 
 .bg-grey {
-  background-color: #727e8b!important;
+  background-color: #3f4855!important;
+}
+
+.bg-darkgrey{
+  background-color: #727e8b
 }
 
 .bg-experteer{
-  background-color: #E9E8E9;
+  background-color: #E9EEF1;
 
 }
 
+.bg-red{
+  background-color: #ffb8b0;
+
+}
 
 .fa {
   color: #3B3B3B;
