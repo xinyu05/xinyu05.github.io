@@ -27,14 +27,20 @@ h1 {
   }
 
 
-h2, 
-{
+h2{
   
     font-size: 3.5rem;
     font-weight: 300;
   }
 
-h3, h4, h5 {
+h3{
+  
+    font-size: 2.5rem;
+    font-weight: 200;
+  }
+
+
+h4, h5 {
 
   font-weight: 300;
 }
@@ -305,7 +311,7 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 /* Add padding BETWEEN each column (if you want) */
 .row,
 .row > .column {
-    padding: 20px;
+    padding: 40px;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -380,7 +386,7 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 
 .zoom {
 
-    transition: transform .1s; /* Animation */
+    transition: transform .9s; /* Animation */
 
 }
 
