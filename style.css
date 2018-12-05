@@ -20,23 +20,26 @@ a:hover {
 
 
 h1 {
-font-family:Amiri;
-    font-size: 4rem;
-    font-weight: 500;
+    color:#191919;
+font-family:Playfair Display;
+    font-size: 5rem;
+    font-weight: 900;
      line-height: 5rem;
+   
   }
 
 
 h2{
+   color:#191919;
   font-family:Amiri;
-    font-size: 3.5rem;
-    font-weight: 300;
+    font-size: 7rem;
+    font-weight: 600;
   }
 
 h3{
   font-family:Amiri;
     font-size: 2.5rem;
-    font-weight: 200;
+    font-weight: 300;
   }
 
 
@@ -200,7 +203,7 @@ header {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 120px 0;
   position: relative;
   margin: 0 auto;
   width: 100%;
