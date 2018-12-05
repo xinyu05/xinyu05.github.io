@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', Roboto,sans-serif;
+  font-family: 'Lato', sans-serif;
   /*background-image: url("assets/background.jpg");*/
   letter-spacing: 0.5px;
   color: rgba(42,46,49,1);
@@ -225,8 +225,8 @@ hr.whiteline{
 }
 
 hr.blackline{
-   margin: 0px 30px;
-  border-top: 0px solid rgba(32,33,36,0);
+   margin: 0px 10px;
+  border-top: 1px solid rgba(32,33,36,0.3);
 }
 
 br.large {
