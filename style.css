@@ -280,6 +280,69 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 
 
 
+/* picture gallery 
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+.row {
+    margin: 2px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) 
+.row,
+.row > .column {
+    padding: 0px;
+}
+
+/* Create three equal columns that floats next to each other 
+.column {
+    float: left;
+    width: 14%;
+    display: none; /* Hide columns by default 
+}
+
+/* Clear floats after rows  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content 
+.content {
+
+    padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements 
+.show {
+    display: block;
+}
+
+/* Style the buttons 
+.btn {
+  border: none;
+  outline: none;
+  padding: 8px 12px;
+  background-color: white;
+  cursor: pointer;
+}
+
+/* Add a grey background color on mouse-over 
+.btn:hover {
+  background-color: #E9EEF1;
+}
+Add a dark background color to the active button 
+.btn.active {
+  background-color: #E9EEF1;
+
+}
+ --!> */
+
+
 #vertical-nav a {
     text-transform:uppercase;
     display:block;
@@ -313,8 +376,54 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
     transform: scale(1.01); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+.socialicon{
+      -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    vertical-align: middle;
+     width: 30px;
+     height: 30px;
 
 
+}
+
+
+
+/* image overlay fade effect */
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000;
+}
+
+.container:hover .overlay {
+  opacity: .7;
+}
+
+.text {
+  color: white;
+  font-size: 1rem;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
 
 
 /*button*/
