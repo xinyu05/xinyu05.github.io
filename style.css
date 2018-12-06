@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
-  /*background-image: url("assets/background.jpg");*/
+  background-image: url("assets/background.jpg");
   letter-spacing: 0.5px;
   color: rgba(42,46,49,1);
 }
@@ -13,7 +13,7 @@ a, a:visited, a:link {
 
 a:hover {
   text-decoration: none;
-  color: #FF7A67;
+  color: #fff;
   border: none;
   transition: all .25s ease-in-out;
 }
@@ -143,9 +143,6 @@ b {
   background-image: url("assets/background.jpg");
 }
 
-.bg-home {
-  background-image: url("assets/backgroundhome.jpg");
-}
 
 .bg-light {
   background-color: #F5F6F8!important;
@@ -163,10 +160,7 @@ b {
   background-color: #727e8b
 }
 
-.bg-experteer{
-  background-color: #E9EEF1;
 
-}
 
 .bg-red{
   background-color: #FF5E50;
@@ -286,84 +280,6 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* picture gallery */
-.main {
-    max-width: 1000px;
-    margin: auto;
-}
-
-
-.row {
-    margin: 2px -16px;
-}
-
-/* Add padding BETWEEN each column (if you want) */
-.row,
-.row > .column {
-    padding: 0px;
-}
-
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 14%;
-    display: none; /* Hide columns by default */
-}
-
-/* Clear floats after rows */ 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-/* Content */
-.content {
-
-    padding: 10px;
-}
-
-/* The "show" class is added to the filtered elements */
-.show {
-    display: block;
-}
-
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 8px 12px;
-  background-color: white;
-  cursor: pointer;
-}
-
-/* Add a grey background color on mouse-over */
-.btn:hover {
-  background-color: #E9EEF1;
-}
-
-/* Add a dark background color to the active button */
-.btn.active {
-  background-color: #E9EEF1;
-
-}
-
-
-
 #vertical-nav a {
     text-transform:uppercase;
     display:block;
@@ -389,7 +305,7 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 
 .zoom {
 
-    transition: transform .9s; /* Animation */
+    transition: transform .5s; /* Animation */
 
 }
 
@@ -397,48 +313,8 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
     transform: scale(1.01); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
-.socialicon{
-      -webkit-transition: all 0.3s ease-in;
-    transition: all 0.3s ease-in;
-    vertical-align: middle;
-     width: 30px;
-     height: 30px;
 
 
-}
-
-
-
-/* image overlay fade effect */
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #000;
-}
-
-.container:hover .overlay {
-  opacity: .7;
-}
-
-.text {
-  color: white;
-  font-size: 10px;
-  position: absolute;
-  top: 40%;
-  left: 40%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: left;
-}
 
 
 /*button*/
@@ -491,5 +367,42 @@ a.nav-link, a.navbar-brand, a.carousel-control-prev, a.carousel-control-next {
 .smallButton:active {
   position:relative;
   top:1px;
+}
+
+
+
+/* responsive image gallery */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
 }
 
