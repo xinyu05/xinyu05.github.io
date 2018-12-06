@@ -2,7 +2,7 @@ body {
   font-family: 'Lato', sans-serif;
   background-image: url("assets/background.jpg");
   letter-spacing: 0.5px;
-  color: rgba(42,46,49,1);
+  color: rgba(42,46,49,0.9);
 }
 
 a, a:visited, a:link {
@@ -20,7 +20,7 @@ a:hover {
 
 
 h1 {
-    color:#191919;
+   
 font-family:Playfair Display;
     font-size: 5rem;
     font-weight: 900;
@@ -53,7 +53,7 @@ h2, h3, h4, h5 {
 }
 
 b {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .lead {
