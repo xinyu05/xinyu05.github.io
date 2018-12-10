@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="94px" viewBox="0 0 1440 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(0.000000, -5581.000000)">
+            <g id="UX-process" transform="translate(0.000000, 4148.000000)" fill="#E9EEF1">
+                <rect id="Rectangle-31" x="0" y="0" width="1440" height="13192"></rect>
+            </g>
+            <g id="Info-A01" transform="translate(105.000000, 5249.000000)" fill="#939393" font-family="Avenir-BookOblique, Avenir" font-size="14" font-style="italic" font-weight="normal">
+                <text id="Information-architec">
+                    <tspan x="150.622" y="346">Information architecture iteration 01</tspan>
+                </text>
+            </g>
+            <text id="Information-architec" font-family="Avenir-BookOblique, Avenir" font-size="14" font-style="italic" font-weight="normal" fill="#939393">
+                <tspan x="713.622" y="5595">Information architecture iteration 02</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

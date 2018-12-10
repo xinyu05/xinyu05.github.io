@@ -46,9 +46,10 @@ h3{
   }
 
  h4{
+  color:rgb(179, 179, 179,0.2);
     font-family:Lato;
-      font-size: 2rem;
-      font-weight:400;
+      font-size: 4rem;
+      font-weight:800;
     }
 
     h5{
@@ -377,14 +378,16 @@ Add a dark background color to the active button
     text-transform:uppercase;
     display:block;
     text-align:left;
-    font:bold 10px/20px Arial;
+    font:bold 10px/20px Lato;
     text-decoration:none;
-    color:#666;
+    color:#727E8B;
     transition:color 0.25s;
 }
 
 #vertical-nav a.active,  #vertical-nav a:hover {
-    color:#b49901;
+    color:#FFD500;
+    text-transform:uppercase;
+    transform: scale(1.1);
 }
 
 @media only screen and (max-width: 800px) {

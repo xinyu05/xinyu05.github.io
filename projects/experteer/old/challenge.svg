@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1444px" height="1149px" viewBox="0 0 1444 1149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="207.841801%" y2="210.513277%" id="linearGradient-1">
+            <stop stop-color="#F6F8F9" offset="0%"></stop>
+            <stop stop-color="#E9EEF1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="CA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(2.000000, -2998.000000)">
+            <g id="The-challenge" transform="translate(0.000000, 2998.000000)">
+                <rect id="Rectangle-31" fill="url(#linearGradient-1)" x="0" y="0" width="1440" height="1159"></rect>
+                <text id="02" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" letter-spacing="0.800000012" fill="#151619">
+                    <tspan x="93" y="111">02</tspan>
+                </text>
+                <text id="The-Challenge" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="64" font-weight="normal" line-spacing="80" letter-spacing="0.800000012" fill="#151619">
+                    <tspan x="93.4119999" y="189">The Challenge</tspan>
+                </text>
+                <text id="The-old-Experteer-ap" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" line-spacing="36" letter-spacing="0.800000012" fill="#151619">
+                    <tspan x="402" y="309"></tspan>
+                    <tspan x="402" y="345">The old Experteer application is far from perfect when it comes to UX. I was </tspan>
+                    <tspan x="402" y="381" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">the only UX designer in the team</tspan>
+                    <tspan x="698.014" y="381">. I was challenged to design a fresh and </tspan>
+                    <tspan x="402" y="417">appealing user experience from scratch so the new app could retain its target </tspan>
+                    <tspan x="402" y="453">audience and attract new candidates. At the same time, I was challenged to </tspan>
+                    <tspan x="402" y="489">communicate with Skateholders, product managers and developers by my </tspan>
+                    <tspan x="402" y="525">own and </tspan>
+                    <tspan x="478.438" y="525" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">fight for the best design solutions</tspan>
+                    <tspan x="784.080001" y="525">.</tspan>
+                </text>
+            </g>
+            <text id="Role-As-the-only-des" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="18" font-weight="300" line-spacing="36" letter-spacing="0.800000012" fill="#000000">
+                <tspan x="402" y="3650">Role</tspan>
+                <tspan x="402" y="3686">As the only designer in the team, I was responsible for the user experience </tspan>
+                <tspan x="402" y="3722">design from “0” to “1”. I </tspan>
+                <tspan x="598.66" y="3722" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">defined key features</tspan>
+                <tspan x="782.610001" y="3722"> with product manager and </tspan>
+                <tspan x="402" y="3758">skateholder, lauched the product with develop team and continue iterate </tspan>
+                <tspan x="402" y="3794">according to feedbacks. I </tspan>
+                <tspan x="617.506" y="3794" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">conducted brainstorm sessions, created user </tspan>
+                <tspan x="402" y="3830" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">flow, wireframe,</tspan>
+                <tspan x="544.752" y="3830"> communicated with skateholder and team members, </tspan>
+                <tspan x="402" y="3866" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">conducted several design review meetings</tspan>
+                <tspan x="788.51" y="3866">, worked on </tspan>
+                <tspan x="891.944001" y="3866" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">visual design</tspan>
+                <tspan x="1010.74" y="3866">, </tspan>
+                <tspan x="402" y="3902">created brand language and maintained design </tspan>
+                <tspan x="795.102001" y="3902" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">styleguide</tspan>
+                <tspan x="888.476001" y="3902">. I also helped </tspan>
+                <tspan x="402" y="3938">product manager to supervise and test the implementation to make sure the </tspan>
+                <tspan x="402" y="3974">final product can meet the requirements and deadline, continue </tspan>
+                <tspan x="928.996001" y="3974" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400">iterating</tspan>
+                <tspan x="1004.218" y="3974">.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
